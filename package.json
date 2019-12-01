@@ -1,10 +1,10 @@
 {
-  "name": "pomelo",
+  "name": "@cpomelo/pomelo",
   "version": "2.2.7",
-  "homepage": "https://github.com/NetEase/pomelo",
+  "homepage": "https://github.com/CubePoint/pomelo",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NetEase/pomelo.git"
+    "url": "https://github.com/CubePoint/pomelo.git"
   },
   "scripts": {
     "test": "grunt"
